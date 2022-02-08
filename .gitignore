@@ -1,5 +1,5 @@
 Thumbs.db
 tmp/
-_old
-_bakcup
-.DS_Store
+*_old
+*_bakcup
+*.DS_Store
